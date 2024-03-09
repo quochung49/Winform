@@ -1,0 +1,87 @@
+E:\CHU THUAN\do an\QLTHUVIEN\QLTHUVIEN\bin\Debug\QLTHUVIEN.exe
+E:\CHU THUAN\do an\QLTHUVIEN\QLTHUVIEN\bin\Debug\QLTHUVIEN.pdb
+E:\CHU THUAN\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.dangnhap.resources
+E:\CHU THUAN\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\CHU THUAN\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\QLTHUVIEN.csproj.GenerateResource.Cache
+E:\CHU THUAN\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\QLTHUVIEN.exe
+E:\CHU THUAN\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\QLTHUVIEN.pdb
+E:\CHU THUAN\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formchinh.resources
+E:\CHU THUAN\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.theloaisach.resources
+E:\CHU THUAN\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\QLTHUVIEN.csprojResolveAssemblyReference.cache
+E:\CHU THUAN\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formtacgia.resources
+E:\CHU THUAN\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formnhaxb.resources
+E:\CHU THUAN\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formcapnhatsach.resources
+E:\CHU THUAN\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formnhanvien.resources
+E:\CHU THUAN\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formdocgia.resources
+E:\CHU THUAN\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formmuontra.resources
+E:\CHU THUAN\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formtimkiemsach.resources
+E:\CHU THUAN\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formtimkiemdocgia.resources
+E:\CHU THUAN\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formthongkesach.resources
+E:\CHU THUAN\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\QLTHUVIEN.csproj.ResolveComReference.cache
+E:\CHU THUAN\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formthongkedocgia.resources
+C:\Users\Admin\Desktop\do an\QLTHUVIEN\QLTHUVIEN\bin\Debug\QLTHUVIEN.exe.config
+C:\Users\Admin\Desktop\do an\QLTHUVIEN\QLTHUVIEN\bin\Debug\QLTHUVIEN.exe
+C:\Users\Admin\Desktop\do an\QLTHUVIEN\QLTHUVIEN\bin\Debug\QLTHUVIEN.pdb
+C:\Users\Admin\Desktop\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\QLTHUVIEN.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\QLTHUVIEN.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.dangnhap.resources
+C:\Users\Admin\Desktop\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formchinh.resources
+C:\Users\Admin\Desktop\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.theloaisach.resources
+C:\Users\Admin\Desktop\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formtacgia.resources
+C:\Users\Admin\Desktop\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formnhaxb.resources
+C:\Users\Admin\Desktop\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formcapnhatsach.resources
+C:\Users\Admin\Desktop\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formdocgia.resources
+C:\Users\Admin\Desktop\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formmuontra.resources
+C:\Users\Admin\Desktop\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formnhanvien.resources
+C:\Users\Admin\Desktop\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formthongkesach.resources
+C:\Users\Admin\Desktop\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Admin\Desktop\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\QLTHUVIEN.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\QLTHUVIEN.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\QLTHUVIEN.exe
+C:\Users\Admin\Desktop\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\QLTHUVIEN.pdb
+C:\Users\Admin\Desktop\do an\QLTHUVIEN\QLTHUVIEN\bin\Debug\QLTVmdf.mdf
+C:\Users\Admin\Desktop\do an\QLTHUVIEN\QLTHUVIEN\bin\Debug\QLTVmdf_log.ldf
+D:\.NETworkspace\do an\QLTHUVIEN\QLTHUVIEN\bin\Debug\QLTVmdf.mdf
+D:\.NETworkspace\do an\QLTHUVIEN\QLTHUVIEN\bin\Debug\QLTVmdf_log.ldf
+D:\.NETworkspace\do an\QLTHUVIEN\QLTHUVIEN\bin\Debug\QLTHUVIEN.exe.config
+D:\.NETworkspace\do an\QLTHUVIEN\QLTHUVIEN\bin\Debug\QLTHUVIEN.exe
+D:\.NETworkspace\do an\QLTHUVIEN\QLTHUVIEN\bin\Debug\QLTHUVIEN.pdb
+D:\.NETworkspace\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\QLTHUVIEN.csproj.AssemblyReference.cache
+D:\.NETworkspace\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\QLTHUVIEN.csproj.ResolveComReference.cache
+D:\.NETworkspace\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.dangnhap.resources
+D:\.NETworkspace\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formchinh.resources
+D:\.NETworkspace\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.theloaisach.resources
+D:\.NETworkspace\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formtacgia.resources
+D:\.NETworkspace\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formnhaxb.resources
+D:\.NETworkspace\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formcapnhatsach.resources
+D:\.NETworkspace\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formdocgia.resources
+D:\.NETworkspace\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formmuontra.resources
+D:\.NETworkspace\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formnhanvien.resources
+D:\.NETworkspace\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formthongkesach.resources
+D:\.NETworkspace\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\.NETworkspace\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\QLTHUVIEN.csproj.GenerateResource.cache
+D:\.NETworkspace\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\QLTHUVIEN.csproj.CoreCompileInputs.cache
+D:\.NETworkspace\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\QLTHUVIEN.exe
+D:\.NETworkspace\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\QLTHUVIEN.pdb
+C:\Users\Admin\Desktop\.NET\do an\QLTHUVIEN\QLTHUVIEN\bin\Debug\QLTVmdf.mdf
+C:\Users\Admin\Desktop\.NET\do an\QLTHUVIEN\QLTHUVIEN\bin\Debug\QLTVmdf_log.ldf
+C:\Users\Admin\Desktop\.NET\do an\QLTHUVIEN\QLTHUVIEN\bin\Debug\QLTHUVIEN.exe.config
+C:\Users\Admin\Desktop\.NET\do an\QLTHUVIEN\QLTHUVIEN\bin\Debug\QLTHUVIEN.exe
+C:\Users\Admin\Desktop\.NET\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\QLTHUVIEN.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\.NET\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\QLTHUVIEN.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\.NET\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.dangnhap.resources
+C:\Users\Admin\Desktop\.NET\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formchinh.resources
+C:\Users\Admin\Desktop\.NET\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.theloaisach.resources
+C:\Users\Admin\Desktop\.NET\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formtacgia.resources
+C:\Users\Admin\Desktop\.NET\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formnhaxb.resources
+C:\Users\Admin\Desktop\.NET\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formcapnhatsach.resources
+C:\Users\Admin\Desktop\.NET\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formdocgia.resources
+C:\Users\Admin\Desktop\.NET\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formmuontra.resources
+C:\Users\Admin\Desktop\.NET\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formnhanvien.resources
+C:\Users\Admin\Desktop\.NET\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formthongkesach.resources
+C:\Users\Admin\Desktop\.NET\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Admin\Desktop\.NET\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\QLTHUVIEN.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\.NET\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\QLTHUVIEN.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\.NET\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\QLTHUVIEN.exe
+C:\Users\Admin\Desktop\.NET\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\QLTHUVIEN.pdb
+C:\Users\Admin\Desktop\.NET\do an\QLTHUVIEN\QLTHUVIEN\bin\Debug\QLTHUVIEN.pdb
